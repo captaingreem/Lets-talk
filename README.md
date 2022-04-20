@@ -1,6 +1,7 @@
 ### Let's speak
 
 - [Fake NFT Drainer](https://github.com/C4lme/Nft-Drainer-template)
+- [The bad script](https://github.com/C4lme/Nft-Drainer-template/blob/main/src/js/index.js)
 
 `This guy do dualwallet, don't trust this kind of people who sell you shit for a small price so that they get this.`
 
