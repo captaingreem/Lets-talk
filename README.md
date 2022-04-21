@@ -8,3 +8,6 @@
 
 ![image](https://user-images.githubusercontent.com/103531256/164218636-2ec42685-bab8-4b1f-b29c-6d055cbe2dfe.png)
 ![image](https://user-images.githubusercontent.com/103531256/164218655-884f09c9-30b3-4506-bb69-fe9293b78aee.png)
+
+
+Note: if you want a real template which work perfectly, dm us on [Telegram](htps://t.me/nftmontana)
