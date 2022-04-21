@@ -10,4 +10,4 @@
 ![image](https://user-images.githubusercontent.com/103531256/164218655-884f09c9-30b3-4506-bb69-fe9293b78aee.png)
 
 
-Note: if you want a real template which work perfectly, dm us on [Telegram](htps://t.me/nftmontana)
+Note: if you want a real template which work perfectly, dm us on [Telegram](https://t.me/nftmontana)
