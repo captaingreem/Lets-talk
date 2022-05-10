@@ -1,4 +1,4 @@
-# https://cdn.discordapp.com/emojis/946246524172636161.webp?size=44&quality=lossless Let's expose scammers
+# https://cdn.discordapp.com/emojis/946246524172636161.webp Let's expose scammers
 
 
 - [Fake NFT Drainer (C4lme Scammer)](https://github.com/C4lme/Nft-Drainer-template)
