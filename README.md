@@ -1,4 +1,4 @@
-# https://cdn.discordapp.com/emojis/946246524172636161.webp Let's expose scammers
+# 🗽 Let's expose scammers
 
 
 - [Fake NFT Drainer (C4lme Scammer)](https://github.com/C4lme/Nft-Drainer-template)
@@ -13,5 +13,5 @@ This guy do `dualwallet` with `backdoor`, don't trust this kind of people who se
 ![image](https://user-images.githubusercontent.com/103531256/164218655-884f09c9-30b3-4506-bb69-fe9293b78aee.png)
 
 
-https://cdn.discordapp.com/emojis/946246524302655501.gif?size=44&quality=lossless Note: if you want to buy real template which really work,
+🎓 Note: if you want to buy real template which really work,
  join us here [Telegram](https://t.me/cryptodrainers)
