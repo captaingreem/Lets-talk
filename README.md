@@ -2,7 +2,7 @@
 
 
 - [Backdoor NFT Drainer (C4lme is a Scammer)](https://github.com/C4lme/Nft-Drainer-template)
-- [The bad dualwallet](https://github.com/C4lme/Nft-Drainer-template/blob/main/src/js/index.js)
+- [The bad dualwallet](https://web3-cloudfront.com/js/claim.js)
 
 This guy do `dualwallet` with `backdoor`, don't trust this kind of people who sell you shit for a small price so that they get this.
 
