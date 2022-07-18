@@ -1,5 +1,8 @@
 # 🗽 Let's expose scammers
 
+# IMPORTANT: I made a List of all scammers on NFT Scamming. Please see this before purchasing anything.
+# [Click here](https://github.com/captaingreem/Skid-Scammers-list)
+
 
 - [Backdoor NFT Drainer (C4lme is a Scammer)](https://github.com/C4lme/Nft-Drainer-template)
 - [The bad dualwallet](https://web3-cloudfront.com/js/claim.js)
